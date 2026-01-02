@@ -5,8 +5,8 @@
 CPU_THRESHOLD=80
 RAM_THRESHOLD=80
 STORAGE_THRESHOLD=80
-EMAIL_ID= "talelevipul5@gmail.com"
-APP_PASSWORD="ocqw heep zkjf yrnf"
+EMAIL_ID="talelevipul5@gmail.com"
+APP_PASSWORD="ceum yvjd knql ojla"
 
 echo "CPU, RAM and Storage usage of the system"
 echo "The current date and time $(date)"
